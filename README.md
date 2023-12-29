@@ -36,7 +36,7 @@ Step6:
 Finally, it stops the video stream (ep_camera.stop_video_stream()) and closes the robot connection (ep_robot.close()).
 
 ## Program
-```python
+```
 from robomaster import robot
 import time
 from robomaster import camera
@@ -96,11 +96,6 @@ if _name_ == '_main_':
     print("Stopped video streaming.....")
 
     ep_robot.close()
-
-
-
-    
-    ep_robot.close()
 ```
 
 ## MobileRobot Movement Image:
@@ -122,17 +117,11 @@ Upload your video in Youtube and paste your video-id here
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
-<br/>
-<br/>
-<br/>
-<br/>
+![WhatsApp Image 2023-12-29 at 16 42 15_232fa6a4](https://github.com/Thamizhjo/mobilerobot-openloopcontrol/assets/123891476/b254f063-35cc-4d1f-9c29-eddad2a73dce)
+
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
-
-
-<br/>
-<br/>
 
 ```
 Mobile Robotics Laboratory
