@@ -104,20 +104,15 @@ if _name_ == '_main_':
 
 Insert image here
 
-
-<br/>
-<br/>
-<br/>
-<br/>
+![WhatsApp Image 2023-12-29 at 16 42 15_232fa6a4](https://github.com/Thamizhjo/mobilerobot-openloopcontrol/assets/123891476/b254f063-35cc-4d1f-9c29-eddad2a73dce)
 
 ## MobileRobot Movement Video:
 
-Upload your video in Youtube and paste your video-id here
+Upload your video in Youtube and paste your video-id here https://youtu.be/YsLccT8xdmI?si=mOlj3RxVYPPlloUJ
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
-![WhatsApp Image 2023-12-29 at 16 42 15_232fa6a4](https://github.com/Thamizhjo/mobilerobot-openloopcontrol/assets/123891476/b254f063-35cc-4d1f-9c29-eddad2a73dce)
 
 
 ## Result:
